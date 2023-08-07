@@ -1,5 +1,5 @@
 {
-  "name": "@safe-global/safe-deployments",
+  "name": "safe-deployments",
   "version": "1.3.0",
   "description": "Collection of Safe singleton deployments",
   "homepage": "https://github.com/safe-global/safe-deployments/",
